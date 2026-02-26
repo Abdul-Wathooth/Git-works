@@ -1,0 +1,30 @@
+Windows 11
+Windows 10
+Windows 7
+macOS Sonoma
+macOS Ventura
+Ubuntu
+Debian
+Fedora
+Red Hat Enterprise Linux
+Arch Linux
+Manjaro
+Linux Mint
+Kali Linux
+openSUSE
+CentOS Stream
+Android
+iOS
+iPadOS
+ChromeOS
+FreeBSD
+OpenBSD
+NetBSD
+Solaris
+OpenSolaris
+Tails OS
+Pop!_OS
+Zorin OS
+Elementary OS
+ReactOS
+Haiku OS
